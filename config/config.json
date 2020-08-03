@@ -4,7 +4,8 @@
     "password": null,
     "database": "database_development",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres",
+    "url": "postgres://uopilygc:gr5c_DzjwcIAkq33yM9rlfN9pURM-0CD@rogue.db.elephantsql.com:5432/uopilygc"
   },
   "test": {
     "username": "root",
